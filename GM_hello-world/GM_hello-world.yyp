@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "59b1f777-f33c-4d44-abcb-4caca99db70a",
+            "Value": {
+                "id": "b537354f-531a-44e5-ae84-40406c398970",
+                "resourcePath": "sprites\\Anthony\\Anthony.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "879ecb56-65a4-4642-be66-ff5aa18e5781",
             "Value": {
                 "id": "970e61f7-c129-4188-97e4-76d1629a412e",
